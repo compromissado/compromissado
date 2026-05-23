@@ -8,6 +8,7 @@
 
 ### 🧠 Languages
 ![Lua](https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua1.svg)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
 ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
