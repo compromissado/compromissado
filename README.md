@@ -26,11 +26,6 @@
 
 ---
 
-## 🚀 What I'm building
-
-- 🛡️ Advanced Anti-Cheat systems on MTA:SA (Horus AC)
-- 🌊 Custom shaders & graphics systems
-- 🚗 Vehicle sync optimization
 - 💙 Working on Nova Capital RolePlay (The world's largest MTA:SA server)
 
 ---
